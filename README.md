@@ -14,6 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### :woman_technologist: About Me :
+- :telescope: I’m a Backend and Solidity Developer working on day to day projects to upskill myself. In future I wish to work in the blockchain ecosystem as Full stack DApp Developer. I am also a competetive programmmer.
+
+- :seedling: I also write content related to Web3 and blockchain.
+
+- :zap: In my free time, I solve problems on Codeforces and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harneet-singh-980abb221/)
+
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;

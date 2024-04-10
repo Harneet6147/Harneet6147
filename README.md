@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### :woman_technologist: About Me :
-- :telescope: I’m a Backend and Blockchain Developer working on day to day projects to upskill myself. In future I wish to work in the blockchain ecosystem as Full stack DApp Developer. I am also a competetive programmmer.
+- :telescope: I’m a Backend and Blockchain Developer working on day to day projects to upskill myself. Currently I work on the Ethereum Blockchain but in future I wish to work on other blockchains like Solana and other rust based blockchains. I am also a competetive programmmer.
 
 - :seedling: I also write content related to Web3 and blockchain.
 

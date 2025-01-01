@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### :woman_technologist: About Me :
-👋 Hi, I'm [Your Name], a Mechanical Engineer with a passion for coding and web development.
+👋 Hi, I'm Harneet Singh, a Mechanical Engineer with a passion for coding and web development.
 
 🔧 By day, I design and innovate in the automotive industry.
 💻 By night, I dive into full-stack development, blockchain, and building creative projects.

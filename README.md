@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### :woman_technologist: About Me :
-- :telescope: I’m a Backend and Blockchain Developer working on day to day projects to upskill myself. Currently I work on the Ethereum Blockchain but in future I wish to work on other blockchains like Solana and other rust based blockchains. I am also a competetive programmmer.
+👋 Hi, I'm [Your Name], a Mechanical Engineer with a passion for coding and web development.
 
-- :seedling: I also write content related to Web3 and blockchain.
+🔧 By day, I design and innovate in the automotive industry.
+💻 By night, I dive into full-stack development, blockchain, and building creative projects.
 
-- :zap: In my free time, I solve problems on Codeforces and read tech articles.
+🚀 With a blend of engineering and software skills, I'm on a mission to create solutions that bridge the gap between physical and digital worlds.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harneet-singh-980abb221/)
 ---
